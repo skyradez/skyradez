@@ -23,5 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyradez&show_icons=true&locale=en" alt="skyradez" /></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD4DFCF&center=true&vCenter=true&multiline=true&width=500&height=50&lines=echo+%22Hello There, Nice+To+Meet+You!%22" alt="textanimation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E2F70BFF&center=true&vCenter=true&multiline=true&width=500&height=50&lines=echo+%22Hello There, Nice+To+Meet+You!%22" alt="textanimation" />
 </p>
