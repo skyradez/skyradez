@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Auristella</h1>
+<h1 align="center">Hi 👋, I'm Marvin Luckianto</h1>
 <h3 align="center">Talks about #backend and #programming - I'm a fast learner, happy to try out other computer science career too.</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" style="height: 90%"/>
@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyradez" alt="skyradez" /></a> </p>
 
+- 🎓 ```Junior Laboratory Assistant``` **@Bina Nusantara University**
+- 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://github.com/skyradez](https://github.com/skyradez)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
@@ -19,3 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyradez&show_icons=true&locale=en&layout=compact" alt="skyradez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyradez&show_icons=true&locale=en" alt="skyradez" /></p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD4DFCF&center=true&vCenter=true&multiline=true&width=500&height=50&lines=echo+%22Hello There, Nice+To+Meet+You!%22" alt="textanimation" /></a>
+</p>
