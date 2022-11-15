@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Auristella</h1>
 <h3 align="center">Talks about #backend and #programming - I'm a fast learner, happy to try out other computer science career too.</h3>
 
+<img align="right" src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" style="height: 90%"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyradez&label=Profile%20views&color=0e75b6&style=flat" alt="skyradez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyradez" alt="skyradez" /></a> </p>
