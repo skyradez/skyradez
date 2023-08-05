@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvin Luckianto</h1>
-<h3 align="center">Talks about #backend and #programming - I'm a fast learner, happy to try out other computer science career too.</h3>
+<h3 align="center">Talks about #artificial intelligence, #backend and #programming - I'm a fast learner, happy to try out other computer science career too.</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="150" height="150"/>
 
