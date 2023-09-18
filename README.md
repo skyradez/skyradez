@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyradez" alt="skyradez" /></a> </p>
 
-- 🎓 ```Junior Laboratory Assistant``` **@Bina Nusantara University**
+- 🎓 ```Subject Coordinator``` **@Bina Nusantara University**
 - 🌱 I’m currently learning **Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/skyradez](https://github.com/skyradez)
 
