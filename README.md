@@ -1,6 +1,10 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:70a5fd&height=200&section=header&text=Marvin%20Luckianto&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Geospatial-Economics%20AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:70a5fd&height=200&section=header&text=Marvin%20Luckianto%2C%20S.Kom.%2C%20M.Sc.&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Geospatial-Economics%20AI%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Marvin Luckianto, S.Kom., M.Sc."
+  />
 </p>
 
 <p align="center">
@@ -124,8 +128,7 @@ const marvin = {
 
 <p align="center">
   <a href="https://github.com/skyradez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/marvinluckianto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <!-- ========== FOOTER ========== -->
